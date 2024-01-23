@@ -1,1 +1,1 @@
-# studies-java-spring-boot
+Projeto para estudo do framework do Java SpringBoot.
